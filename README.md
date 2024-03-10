@@ -1,10 +1,10 @@
-<br clear="both">
-
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhb3p6aXg5Mmo2bHY2Z21sY215bWY5MTc0a2N4ZTNidHFneGJxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+<h2 align="center">Hi 👋! My name is Arman Mesropyan<br> I'm a Frontend Developer, from Armenia</h2>
 
 ###
 
-<h2 align="left">Hi 👋! My name is Arman Mesropyan<br> I'm a Frontend Developer, from Armenia</h2>
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhb3p6aXg5Mmo2bHY2Z21sY215bWY5MTc0a2N4ZTNidHFneGJxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+</div>
 
 ###
 
